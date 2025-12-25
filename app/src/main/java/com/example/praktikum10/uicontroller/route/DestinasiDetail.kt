@@ -1,4 +1,11 @@
 package com.example.praktikum10.uicontroller.route
 
-class DestinasiDetail {
+import com.example.praktikum10.R
+
+object DestinasiDetail: DestinasiNavigasi {
+    override val route = "detail_Siswa"
+    override val titleRes = R.string.detail_siswa
+
+    const val itemIdArg = "idSiswa"
+    val routeWithArgs = "$route/{$itemIdArg"
 }
