@@ -14,6 +14,7 @@
 <br>
 
 # Tugas Minggu Ini (25 September 2025)
+
 <br>
 # Sebelum Dihapus
 <br>
@@ -34,6 +35,7 @@
 <img width="873" height="978" alt="Screenshot 2025-12-25 215453" src="https://github.com/user-attachments/assets/b378bd39-ba57-4f35-9318-89233446043c" />
  
 <br>
+
 # Sebelum diedit
 <img width="511" height="974" alt="Screenshot 2025-12-25 223557" src="https://github.com/user-attachments/assets/5f35a2ef-99d6-47f8-9a9c-a34e2e0a512b" />
 
