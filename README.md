@@ -14,8 +14,8 @@
 <br>
 
 # Tugas Minggu Ini (25 September 2025)
-
-**Sebelum Dihapus**
+<br>
+# Sebelum Dihapus
 <br>
 <img width="348" height="675" alt="Screenshot 2025-12-25 212643" src="https://github.com/user-attachments/assets/55fcb7e8-e728-495a-9fa8-0b04a5eef555" />
 <br>
@@ -26,9 +26,16 @@
 <img width="448" height="688" alt="Screenshot 2025-12-25 214745" src="https://github.com/user-attachments/assets/65158b4c-1fb6-4169-8370-f6380d8182ac" />
 <br>
 <br>
-**Setelah Dihapus**
+# Setelah Dihapus
 <br>
 <img width="460" height="683" alt="Screenshot 2025-12-25 214825" src="https://github.com/user-attachments/assets/bbc96c3b-f216-4f04-9ed9-93a84b1ad820" />
 <br>
 <br>
 <img width="873" height="978" alt="Screenshot 2025-12-25 215453" src="https://github.com/user-attachments/assets/b378bd39-ba57-4f35-9318-89233446043c" />
+ 
+<br>
+# Sebelum diedit
+<img width="511" height="974" alt="Screenshot 2025-12-25 223557" src="https://github.com/user-attachments/assets/5f35a2ef-99d6-47f8-9a9c-a34e2e0a512b" />
+
+# Setelah diedit
+<img width="490" height="934" alt="Screenshot 2025-12-25 223934" src="https://github.com/user-attachments/assets/85d96443-5bfb-4797-b6a2-85940de2179e" />
