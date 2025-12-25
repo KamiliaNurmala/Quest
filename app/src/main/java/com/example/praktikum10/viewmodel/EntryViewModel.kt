@@ -16,7 +16,7 @@ class EntryViewModel(private val repositoryDataSiswa: RepositoryDataSiswa):
         private set
 
     /* Fungsi untuk memvalidasi input */
-    private fun validasiInput(uiState: DetailSiswa = uiStateSiswa.detailSiswa ):
+    private fun validasiInput(uiState: DetailSiswa = uiStateSiswa.detailSiswa):
             Boolean {
         return with(uiState) {
             nama.isNotBlank() && alamat.isNotBlank() && telpon.isNotBlank()
