@@ -29,7 +29,6 @@ import com.example.praktikum10.modeldata.UIStateSiswa
 import com.example.praktikum10.uicontroller.route.DestinasiEntry
 import com.example.praktikum10.viewmodel.EntryViewModel
 import com.example.praktikum10.viewmodel.provider.PenyediaViewModel
-import kotlinx.coroutines.coroutineScope
 import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)
